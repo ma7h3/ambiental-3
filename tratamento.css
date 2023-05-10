@@ -1,0 +1,179 @@
+.tit{
+    font-family: bold;
+
+}
+html {
+    background-color: #b7e26113;
+}
+
+@media only screen and (max-device-width: 2000px) {
+    /* .menu { width:600px; } */
+}
+
+*::-webkit-scrollbar {
+    width: 15px;
+
+}
+
+*::-webkit-scrollbar-track {
+    background-color: #C4E47C;
+
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #2a6c24b4;
+}
+
+
+.header {
+    width: 100%;
+    height: 10%;
+    background-color: #f0fadb;
+}
+
+.IMAGEMDOTOPO {
+    width: 8cm;
+}
+
+.IMAGEMDOLOGO {
+    width: 9cm;
+}
+
+
+.IMAGEMDAFOLHA2 {
+    width: 17cm;
+}
+
+
+.IMAGEMDAFOLHA1 {
+    width: 17cm;
+}
+
+.imagensFOLHA {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -300px;
+}
+
+.segundocabeçalho {
+    text-align: center;
+    font-size: 3cm;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f0fadb;
+}
+
+button:hover {
+    color: #ffffff;
+    background-color: #629826;
+    border-radius: 50px;
+    background-size: contain;
+}
+
+button {
+    width: 300px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #2A6C24;
+    border-color: #ffffff;
+    border-radius: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17%;
+}
+
+button a {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: #ffffff;
+}
+
+
+.DEGRADE1 {
+    color: #C4E47C;
+    background-color: #C4E47C;
+    height: 35px;
+}
+
+.DEGRADE2 {
+    color: #2a6c24b4;
+    background-color: #2a6c24b4;
+    height: 20px;
+}
+
+.GIFMEIOAMBIENTE {
+    margin-top: 3%;
+
+}
+
+.senai {
+    margin-top: 2%;
+    width: 25%;
+}
+
+.bglhdosenai {
+    background-color: #ffffff;
+}
+/*.as{
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    background-color: black;
+    padding: 15px 15px;
+   
+ }
+ .tec{
+     font-family: 'Times New Roman', Times, serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .enci{
+     font-family: 'Times New Roman', Times, serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .reci{
+     font-family: 'Times New Roman', Times, serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .com{
+     font-family: 'Times New Roman', Times, serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .rios{
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .cao{
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .la{
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .gem{
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: #ffffff;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .lixo{
+     width: 100%;
+ }*/
